@@ -1,2 +1,2 @@
 # mobile-based-Air-Quality-Monitoring-system
-This project monitors CO, CO₂, and LPG levels using ESP32 and uploads data to ThingSpeak.
+This project is a compact and efficient air quality monitoring system using the ESP32 microcontroller and the MQ-135 gas sensor. It detects harmful gases such as Carbon Monoxide (CO), Carbon Dioxide (CO₂), and LPG from the environment. The collected data is transmitted via WiFi to the ThingSpeak cloud platform, enabling users to remotely monitor air quality through a mobile device. This system is ideal for smart homes and urban air pollution tracking due to its simplicity, low cost, and real-time data access.
